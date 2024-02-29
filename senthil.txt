@@ -1,2 +1,8 @@
-sample test 
-senthil
+GitHub: https://github.com/
+Git (download): https://git-scm.com/downloads
+
+Public Key Generation:
+ssh-keygen -t rsa -b 4096 -C "your mail id"
+
+To Read the Public key:
+cat .ssh/id_rsa.pub
